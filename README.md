@@ -1,5 +1,5 @@
 ## Hi 👋🏼
-I'm Aysha, a finance student turned developer.
+I'm Aysha, a finance student with a keen interest in software development.
 
 ## 🤗 Experience
 + __100 Devs__: Collaborated with a team of developers under their training program to build web applications.
