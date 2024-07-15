@@ -1,3 +1,3 @@
 ## Hi 👋🏼
-I'm Aysha, a finance student with a keen interest in software development.
+I'm Aysha, a finance graduate with a keen interest in software development.
 
